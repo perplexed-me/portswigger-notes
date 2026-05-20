@@ -1,0 +1,13 @@
+# Offensive Security Learning Portfolio
+
+This repository documents my hands-on offensive security learning journey through PortSwigger Web Security Academy, CTF practice, and practical vulnerability analysis.
+
+---
+
+
+## Skills Practiced
+
+
+
+
+## Repository Structure
